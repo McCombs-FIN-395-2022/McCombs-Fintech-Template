@@ -1,2 +1,2 @@
-# McCombs-Fintech-Su2020-EMBA
- Main Repository for Fintech McCombs Summer 2020 EMBA
+# Fintech Template
+ Main Repository Template for Fintech McCombs Course
